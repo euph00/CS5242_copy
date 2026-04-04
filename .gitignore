@@ -6,3 +6,8 @@
 **.pptx
 **/dev
 **/not_used
+*.pt
+
+# Local dataset caches / downloads
+data/cifar/temp/
+data/mnist/temp/
